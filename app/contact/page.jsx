@@ -95,7 +95,7 @@ export default function ContactPage() {
                     transition={{ delay: 0.25, duration: 0.5 }}
                     className="mt-4 text-lg text-zinc-400"
                 >
-                    The fastest way to reach me is below — happy to talk projects,
+                    The fastest way to reach me is below. Happy to talk projects,
                     collabs, or just Beat Saber modding.
                 </motion.p>
 

@@ -36,7 +36,7 @@ export default function Home() {
                     transition={{ delay: 0.25, duration: 0.5 }}
                     className="mt-4 text-lg text-zinc-400"
                 >
-                    I build games, tools, and web apps — from shaders and modding tools
+                    I build games, tools, and web apps. From shaders and modding tools
                     to full-stack products.
                 </motion.p>
 
